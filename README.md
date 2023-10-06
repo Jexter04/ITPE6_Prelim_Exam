@@ -1,5 +1,5 @@
-This is your prelim laboratory exam.
+Hello I'm KARL JEXTER A. SECRETARIO
 
-Use everything you learned (if there is) in solving this repository.
+AGE: 21
 
-Goodluck!
+COURSE: BSIT 4-1
